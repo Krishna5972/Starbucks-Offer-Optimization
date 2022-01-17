@@ -21,7 +21,7 @@ The following packages and versions are used for this project
 |seaborn|0.11.2|           
 
 ## Project Components <a name="Project-Components"></a>
-There are 3 main components in this project.
+There are 5 main components in this project.
 ### 1. Exploratory Data Analysis and Cleaning
 - Load the three datasets 
 - Clean the datasets
