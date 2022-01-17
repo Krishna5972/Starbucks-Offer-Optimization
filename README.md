@@ -26,25 +26,25 @@ There are 5 main components in this project.
 - Load the three datasets 
 - Clean the datasets
 - Handle missing values
-- Saved them in csv format for future use
+- Save them in csv format for future use
 
 ### 2. Feature Engineering
 - Create offer_completed,offer_accidentally_completed,offer_ignored and offer_didnotcomplete columns for every offer
-- Grouped the columns on customer id to get clear idea what offers the customer has recieved,viewed and completed.
-- Merged this data with the customer demographics to train the model
-- Saved them in csv format for future use
+- Groupe the columns on customer id to get clear idea what offers the customer has recieved,viewed and completed.
+- Merge this data with the customer demographics to train the model
+- Save them in csv format for future use
 
 ### 3. Data Visualization
-- Used the above the data to visual and answer some business questions
+- Use the above the data to visual and answer some business questions
 - some more insights about the offers
 
 ### 4. Data Preprocessing
-- created bins to handle class imbalance
-- searched for outliers
+- create bins to handle class imbalance
+- searche for outliers
 
 ### 5. Machine Learning Model
-- trained several classifier models to find the best base model on the training data
-- Using feature importance, removed unnecessary features
+- train several classifier models to find the best base model on the training data
+- Using feature importance, remove unnecessary features
 - GridSearchCV to find the optimal hyperparameters
 
 
