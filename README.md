@@ -40,7 +40,7 @@ There are 5 main components in this project.
 
 ### 4. Data Preprocessing
 - create bins to handle class imbalance
-- searche for outliers
+- searching for outliers
 
 ### 5. Machine Learning Model
 - train several classifier models to find the best base model on the training data
